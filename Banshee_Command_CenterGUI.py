@@ -149,7 +149,7 @@ def get_current_weather(api_key, lat, lon, weather_data):
 
 
 def get_weather_info(latitude, longitude ,weather_data):
-    api_key = "2f6b8642f0744741a93160512232412"
+    api_key = " "
     get_current_weather(api_key, latitude, longitude ,weather_data)
     get_forecast_weather(api_key, latitude, longitude ,weather_data)
  
