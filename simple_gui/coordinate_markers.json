@@ -1,0 +1,30 @@
+{
+  "115": {
+    "location": [
+      "34",
+      "-117"
+    ],
+    "description": "(34.0, -117.0) - Banshee Lab Room"
+  },
+  "Cameron": {
+    "location": [
+      "33",
+      "-115"
+    ],
+    "description": "(33.0, -115.0) - idk"
+  },
+  "idk2": {
+    "location": [
+      "34",
+      "-116"
+    ],
+    "description": "(34.0, -116.0) - test"
+  },
+  "test": {
+    "location": [
+      "34.05",
+      "-117.815"
+    ],
+    "description": "(34.05, -117.815) - "
+  }
+}
